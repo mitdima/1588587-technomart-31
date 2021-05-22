@@ -1,7 +1,7 @@
 # Личный проект «Техномарт»
 
-* Студент: [Неопознанный енот](https://up.htmlacademy.ru/htmlcss/31/user/1588587).
-* Наставник: `Неизвестно`.
+* Студент: [Мирушин Дмитрий](https://up.htmlacademy.ru/htmlcss/31/user/1588587).
+* Наставник: [Arthur Litovko](https://up.htmlacademy.ru/htmlcss/31/user/6927).
 
 ---
 
